@@ -1,0 +1,4 @@
+﻿  GK_2c_Czepielik_Łukasz_1.cpp
+c:\users\user\documents\visual studio 2017\projects\gk_2c_czepielik_łukasz_1\gk_2c_czepielik_łukasz_1\gk_2c_czepielik_łukasz_1.cpp(40): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\user\documents\visual studio 2017\projects\gk_2c_czepielik_łukasz_1\gk_2c_czepielik_łukasz_1\gk_2c_czepielik_łukasz_1.cpp(41): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  GK_2c_Czepielik_Łukasz_1.vcxproj -> C:\Users\user\Documents\Visual Studio 2017\Projects\GK_2c_Czepielik_Łukasz_1\Debug\GK_2c_Czepielik_Łukasz_1.exe
