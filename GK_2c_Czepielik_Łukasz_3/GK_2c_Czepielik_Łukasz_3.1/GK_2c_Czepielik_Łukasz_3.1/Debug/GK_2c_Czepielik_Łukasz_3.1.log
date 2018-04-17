@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  GK_2c_Czepielik_Łukasz_3.1.cpp
+h:\gk\gk_2c_czepielik_łukasz_3.1\gk_2c_czepielik_łukasz_3.1\gk_2c_czepielik_łukasz_3.1.cpp(49): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+h:\gk\gk_2c_czepielik_łukasz_3.1\gk_2c_czepielik_łukasz_3.1\gk_2c_czepielik_łukasz_3.1.cpp(152): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+h:\gk\gk_2c_czepielik_łukasz_3.1\gk_2c_czepielik_łukasz_3.1\gk_2c_czepielik_łukasz_3.1.cpp(157): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+h:\gk\gk_2c_czepielik_łukasz_3.1\gk_2c_czepielik_łukasz_3.1\gk_2c_czepielik_łukasz_3.1.cpp(218): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+h:\gk\gk_2c_czepielik_łukasz_3.1\gk_2c_czepielik_łukasz_3.1\gk_2c_czepielik_łukasz_3.1.cpp(220): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+h:\gk\gk_2c_czepielik_łukasz_3.1\gk_2c_czepielik_łukasz_3.1\gk_2c_czepielik_łukasz_3.1.cpp(222): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+h:\gk\gk_2c_czepielik_łukasz_3.1\gk_2c_czepielik_łukasz_3.1\gk_2c_czepielik_łukasz_3.1.cpp(224): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  GK_2c_Czepielik_Łukasz_3.1.vcxproj -> H:\GK\GK_2c_Czepielik_Łukasz_3.1\Debug\GK_2c_Czepielik_Łukasz_3.1.exe
