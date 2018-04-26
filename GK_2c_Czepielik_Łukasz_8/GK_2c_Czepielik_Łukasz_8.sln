@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GK_2c_Czepielik_Łukasz_8", "GK_2c_Czepielik_Łukasz_8\GK_2c_Czepielik_Łukasz_8.vcxproj", "{92D58EA3-28D5-4F00-9ABA-FDDD4BA3A64B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92D58EA3-28D5-4F00-9ABA-FDDD4BA3A64B}.Debug|x64.ActiveCfg = Debug|x64
+		{92D58EA3-28D5-4F00-9ABA-FDDD4BA3A64B}.Debug|x64.Build.0 = Debug|x64
+		{92D58EA3-28D5-4F00-9ABA-FDDD4BA3A64B}.Debug|x86.ActiveCfg = Debug|Win32
+		{92D58EA3-28D5-4F00-9ABA-FDDD4BA3A64B}.Debug|x86.Build.0 = Debug|Win32
+		{92D58EA3-28D5-4F00-9ABA-FDDD4BA3A64B}.Release|x64.ActiveCfg = Release|x64
+		{92D58EA3-28D5-4F00-9ABA-FDDD4BA3A64B}.Release|x64.Build.0 = Release|x64
+		{92D58EA3-28D5-4F00-9ABA-FDDD4BA3A64B}.Release|x86.ActiveCfg = Release|Win32
+		{92D58EA3-28D5-4F00-9ABA-FDDD4BA3A64B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C95EBD5-4872-4289-8436-09312D810028}
+	EndGlobalSection
+EndGlobal
