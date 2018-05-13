@@ -1,6 +1,6 @@
 ﻿  GK_2c_Czepielik_Łukasz_9.cpp
-c:\users\user\desktop\gk_2c_czepielik_łukasz_9\gk_2c_czepielik_łukasz_9\gk_2c_czepielik_łukasz_9.cpp(571): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
-c:\users\user\desktop\gk_2c_czepielik_łukasz_9\gk_2c_czepielik_łukasz_9\gk_2c_czepielik_łukasz_9.cpp(573): warning C4244: '-=': conversion from 'double' to 'GLfloat', possible loss of data
-c:\users\user\desktop\gk_2c_czepielik_łukasz_9\gk_2c_czepielik_łukasz_9\gk_2c_czepielik_łukasz_9.cpp(583): warning C4305: '+=': truncation from 'double' to 'GLfloat'
-c:\users\user\desktop\gk_2c_czepielik_łukasz_9\gk_2c_czepielik_łukasz_9\gk_2c_czepielik_łukasz_9.cpp(588): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+c:\users\user\desktop\gk_2c_czepielik_łukasz_9\gk_2c_czepielik_łukasz_9\gk_2c_czepielik_łukasz_9.cpp(529): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\user\desktop\gk_2c_czepielik_łukasz_9\gk_2c_czepielik_łukasz_9\gk_2c_czepielik_łukasz_9.cpp(531): warning C4244: '-=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\user\desktop\gk_2c_czepielik_łukasz_9\gk_2c_czepielik_łukasz_9\gk_2c_czepielik_łukasz_9.cpp(541): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\user\desktop\gk_2c_czepielik_łukasz_9\gk_2c_czepielik_łukasz_9\gk_2c_czepielik_łukasz_9.cpp(546): warning C4305: '-=': truncation from 'double' to 'GLfloat'
   GK_2c_Czepielik_Łukasz_9.vcxproj -> C:\Users\user\Desktop\GK_2c_Czepielik_Łukasz_9\Debug\GK_2c_Czepielik_Łukasz_9.exe
